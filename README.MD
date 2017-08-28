@@ -1,4 +1,4 @@
-#Instructions:
+# Instructions:
 
 ## How to Install and Run
 1.	Install Python 2.7 on your laptop. https://www.python.org/downloads/
@@ -14,3 +14,6 @@
 ## Future work
 1.  Apply more different approaches
 2.  Apply larger dataset to make the result more accurate
+
+## Improvement
+1.  Try to optimize the k value of SVD approach for the prediction.
