@@ -17,3 +17,4 @@
 
 ## Improvement
 1.  Try to optimize the k value of SVD approach for the prediction.
+2.  Try find a better way to calculate the distance between each object(user or movie)
